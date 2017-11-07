@@ -1,22 +1,22 @@
 body {
-    width: 100%;
-    heigth: 100%;
-    background-color: #FAFAFA;
+	background-color: #fafafa;
+	width:	100%;
 }
 
 .center {
 	height: 75%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    margin: auto;
-    img {
-    	margin: 0 auto;
-    }
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+
+	img {
+		margin: 0 auto;
+	}
 }
 
 article {
-    text-align: center;
+	text-align: center;
 }
