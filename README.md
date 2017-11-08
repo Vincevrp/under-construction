@@ -11,7 +11,7 @@ Build using `gulp`. Use the following commands to install:
 npm install -D
 
 # If not already installed:
-npm intsall gulp-cli -g
+npm install gulp-cli -g
 
 # Build by using gulp
 gulp
