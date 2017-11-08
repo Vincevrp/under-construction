@@ -1,6 +1,11 @@
+// Variables
+$color: #222222;
+$background-color: #fafafa;
+
 body {
-	background-color: #fafafa;
-	width:	100%;
+	color: $color;
+	background-color: $background-color;
+	width:100%;
 }
 
 .center {
